@@ -11,13 +11,32 @@
             "id": "c093b08cef24056c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw Examples.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Excalidraw Examples"
+            }
+          },
+          {
+            "id": "7c4c92b7ec1fefec",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Haydn's Vault/.obsidian/community-plugins.json",
+                "bFile": "Haydn's Vault/.obsidian/community-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,13 +172,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "309aa08d2eaf731a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 492
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,16 +199,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c093b08cef24056c",
+  "active": "309aa08d2eaf731a",
   "lastOpenFiles": [
+    "Excalidraw Examples.md",
+    "Drawing 2025-06-16 15.58.51.excalidraw.md",
+    "Excalidraw/Excalidraw Examples 2025-06-16 16.01.58.excalidraw.md",
+    "Welcome.md",
+    "Project Ideas.md",
     "Excalidraw/Drawing 2025-06-16 15.35.32.excalidraw.md",
+    "Development Tools.md",
+    "Daily Notes/2024-03-20.md",
+    "Daily Notes",
     "Excalidraw",
     "2025-06-16.md",
     "Untitled.canvas",
-    "Untitled.md",
-    "Welcome.md"
+    "Untitled.md"
   ]
 }
