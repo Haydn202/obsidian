@@ -2,5 +2,8 @@
   "obsidian-excalidraw-plugin",
   "calendar",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "excalibrain",
+  "obsidian-hover-editor"
 ]
